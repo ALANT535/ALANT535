@@ -1,5 +1,4 @@
-### Hi there, I'm Alan! <span class="wave">👋</span>
-
+### Hi there, I'm Alan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a 3rd-year student pursuing B.Tech in Computer Science with Business Systems at VIT Vellore. Passionate about the exciting realms of Artificial Intelligence and Machine Learning. Would also love to work as a software developer; work on exciting projects and make some great connections along the way.
 
