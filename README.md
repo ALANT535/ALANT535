@@ -26,6 +26,7 @@ I'm a 3rd-year student pursuing B.Tech in Computer Science with Business Systems
 
 
 [linkedin]: https://www.linkedin.com/in/alan-thomas-91aa18230/
+[leetcode]: https://www.leetcode.com/kokki535
 [twitter]: https://twitter.com/yourusername/
 [portfolio]: https://yourportfolio.com/
 [email]: mailto:thomasalan535@gmail.com
