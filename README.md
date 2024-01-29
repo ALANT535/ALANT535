@@ -11,7 +11,6 @@ I'm a 3rd-year student pursuing B.Tech in Computer Science with Business Systems
 
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
-[<img align="left" alt="Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="Email" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />][email]
 
 <br />
