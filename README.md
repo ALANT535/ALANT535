@@ -10,10 +10,14 @@ I'm a 3rd-year student pursuing B.Tech in Computer Science with Business Systems
 ### Connect with Me:
 
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
-[<img align="left" alt="leetcode" width="30px" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />][LeetCode]
-[<img align="left" alt="Email" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />][email]
-
+<a href = "https://www.linkedin.com/in/alan-thomas-91aa18230/" target = "_blank">[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />]
+</a>
+<a href = "https://www.leetcode.come/kokki535" target = "_blank">
+[<img align="left" alt="leetcode" width="30px" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />]
+</a>
+<a href = "mailto:thomasalan535@gmail.com" target = "_blank">
+[<img align="left" alt="Email" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />]
+</a>
 <br />
 <br />
 
@@ -24,9 +28,3 @@ I'm a 3rd-year student pursuing B.Tech in Computer Science with Business Systems
 ### 📚 LeetCode Stats:
 ![LeetCode Stats](https://leetcode.card.workers.dev/Kokki535?theme=dark&font=baloo&extension=activity)
 
-
-[linkedin]: https://www.linkedin.com/in/alan-thomas-91aa18230/
-[leetcode]: https://www.leetcode.com/kokki535
-[twitter]: https://twitter.com/yourusername/
-[portfolio]: https://yourportfolio.com/
-[email]: mailto:thomasalan535@gmail.com
