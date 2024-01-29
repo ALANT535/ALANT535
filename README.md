@@ -11,7 +11,7 @@ I'm a 3rd-year student pursuing B.Tech in Computer Science with Business Systems
 
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
-[<img align="left" alt="leetcode" width="30px" src="[https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg](https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png)" />][LeetCode]
+[<img align="left" alt="leetcode" width="30px" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />][LeetCode]
 [<img align="left" alt="Email" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />][email]
 
 <br />
