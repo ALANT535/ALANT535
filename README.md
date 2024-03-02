@@ -3,7 +3,7 @@
 I'm a 3rd-year student pursuing B.Tech in Computer Science with Business Systems at VIT Vellore. Passionate about the exciting realms of Artificial Intelligence and Machine Learning. Would also love to work as a software developer; work on exciting projects and make some great connections along the way.
 
 - 🌱 I’m currently exploring the vast landscapes of AI and ML.
-- 💼 Leading the development efforts as the R&D Head of the AI and ML Club at VIT Vellore.
+- 💼 Previously led the development efforts as the R&D Head of the AI and ML Club at VIT Vellore during the 2022-23 tenure.
 - 🔭 I’m constantly learning and working on various projects to hone my skills.
 - 👯 I’m looking forward to contributing more to the industry and the open-source community.
 
