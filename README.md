@@ -7,6 +7,9 @@ I'm a 3rd-year student pursuing B.Tech in Computer Science with Business Systems
 - 🔭 I’m constantly learning and working on various projects to hone my skills.
 - 👯 I’m looking forward to contributing more to the industry and the open-source community.
 
+![Profile views](https://komarev.com/ghpvc/?username=ALANT535&color=blueviolet)
+
+
 ### Connect with Me:
 
 <a href="https://www.linkedin.com/in/alan-thomas-91aa18230/" target="_blank">
