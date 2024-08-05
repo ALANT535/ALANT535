@@ -16,7 +16,7 @@ I'm a final year student pursuing B.Tech in Computer Science with Business Syste
   <img align="left" alt="LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 
-<a href="https://www.leetcode.com/ALANT5355" target="_blank">
+<a href="https://www.leetcode.com/ALANT535" target="_blank">
   <img align="left" alt="LeetCode" width="30px" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />
 </a>
 
