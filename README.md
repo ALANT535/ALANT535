@@ -32,4 +32,4 @@ I'm a final year student pursuing B.Tech in Computer Science with Business Syste
 ![ALANT535's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALANT535&show_icons=true&theme=dark)
 
 ### 📚 LeetCode Stats:
-![LeetCode Stats](https://leetcode.card.workers.dev/Kokki535?theme=dark&font=baloo&extension=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/ALANT535?theme=dark&font=baloo&extension=activity)
